@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**AntoniKwok/AntoniKwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is 
+### Antoni Wijaya
+🔭  I’m currently working at Moka Indonesia as a Software Engineer - Android Intern
 
-Here are some ideas to get you started:
+🌱  I’m currently learning about Best Practices in Developing Android Apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫  Contact me:
+- Website: https://www.antoniwijaya.com
+- LinkedIn: www.linkedin.com/in/antoni-wijaya-kwok
+- Facebook: https://www.facebook.com/antoni.wijayaAI
+- Instagram: @antoni_kwok
+
+**Remember Your Goal and Why You Started**
