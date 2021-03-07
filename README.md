@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![GitHub followers](https://img.shields.io/github/followers/AntoniKwok?label=Follow&style=social)
 
-I'm a final year student pursuing Bachelors's in Information Systems 🎓 from Binus University 🏛. I love to explore new technologies especially in Android ✨. I’m currently working at Moka Indonesia as a Software Engineer - Android Intern 🧑🏻‍💻.
+I'm a final year student pursuing Bachelors's in Information Systems 🎓 from Binus University 🏛. I love to explore new technologies especially in Android ✨. I’m currently working at Moka Indonesia as a Software Engineer - Android 🧑🏻‍💻.
 
 ![Antoni's github stats](https://github-readme-stats.vercel.app/api?username=AntoniKwok&show_icons=true&hide=[%22issues%22])
 
