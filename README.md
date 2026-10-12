@@ -61,14 +61,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<a href="https://github.com/AntoniKwok?tab=repositories">
-  <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniKwok&layout=compact&langs_count=6&theme=dracula" alt="Top Languages"/>
-</a>
-
----
-
 ### 📫 Let's Connect!
 
 💼 **Open to**: Remote opportunities and interesting engineering problems  
